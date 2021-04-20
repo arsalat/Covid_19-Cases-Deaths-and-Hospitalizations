@@ -1,4 +1,4 @@
-# Covid_19 Cases, HOspitalizations and Deaths for the State of Connecticut
+# Covid_19 Cases, Hospitalizations and Deaths for the State of Connecticut
 
 The goal of this project is to analyze the number of Covid-19 cases, hospitalizations and deaths for the state of connecticut. 
 
